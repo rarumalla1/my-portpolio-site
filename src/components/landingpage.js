@@ -18,6 +18,18 @@ class LandingPage extends Component {
 
                       <hr/>
                       <p>AWS | Java | Python | PCF | Apigee</p>
+                      <div className="social-links">
+                          {/*Linkedln */}
+                          <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                          <i className="fa fa-linkedin-square" aria-hidden="true"></i>
+                          </a>
+        
+                          {/*GitHub */}
+                          <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                          <i className="fa fa-github-square" aria-hidden="true"></i>
+                          </a>
+
+                      </div>
                   </div>
                  </Cell>
               </Grid>
